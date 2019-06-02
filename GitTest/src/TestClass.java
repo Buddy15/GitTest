@@ -6,8 +6,8 @@ public class TestClass {
 		System.out.println("This is the inital change");
 		System.out.println("This is the 3rd line change");
 		System.out.println("This is the change in the master branch");
-		
-		
+		System.out.println("This is the 4th line change");
+
 		
 
 		
