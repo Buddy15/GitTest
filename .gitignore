@@ -1,0 +1,13 @@
+*
+!.gitignore
+*.html
+*.txt
+/GitTest/.project
+!/GitTest/
+/GitTest/.classpath
+/GitTest/.settings
+
+
+
+
+
